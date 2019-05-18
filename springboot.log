@@ -1,0 +1,31 @@
+2019-05-18 10:39:11.505  INFO 12868 --- [main] c.t.s.SpringbootLogApplicationTests      : Starting SpringbootLogApplicationTests on DESKTOP-RJH2P9F with PID 12868 (started by Paul in E:\Users\Paul\IdeaProjects\springboot-log)
+2019-05-18 10:39:11.507 DEBUG 12868 --- [main] c.t.s.SpringbootLogApplicationTests      : Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-18 10:39:11.507  INFO 12868 --- [main] c.t.s.SpringbootLogApplicationTests      : No active profile set, falling back to default profiles: default
+2019-05-18 10:39:16.521  INFO 12868 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-18 10:39:17.499  INFO 12868 --- [main] c.t.s.SpringbootLogApplicationTests      : Started SpringbootLogApplicationTests in 8.026 seconds (JVM running for 10.423)
+2019-05-18 10:39:17.930 ERROR 12868 --- [main] c.t.s.SpringbootLogApplicationTests      : 123
+2019-05-18 10:39:17.948  INFO 12868 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-18 10:45:39.428  INFO 6104 --- [main] c.t.s.SpringbootLogApplication           : Starting SpringbootLogApplication on DESKTOP-RJH2P9F with PID 6104 (E:\Users\Paul\IdeaProjects\springboot-log\target\classes started by Paul in E:\Users\Paul\IdeaProjects\springboot-log)
+2019-05-18 10:45:39.430 DEBUG 6104 --- [main] c.t.s.SpringbootLogApplication           : Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-18 10:45:39.431  INFO 6104 --- [main] c.t.s.SpringbootLogApplication           : No active profile set, falling back to default profiles: default
+2019-05-18 10:45:41.028  INFO 6104 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-05-18 10:45:41.122  INFO 6104 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-05-18 10:45:41.123  INFO 6104 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-18 10:45:41.416  INFO 6104 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-05-18 10:45:41.416  INFO 6104 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1943 ms
+2019-05-18 10:45:41.647  INFO 6104 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-18 10:45:41.926  INFO 6104 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-18 10:45:41.928  INFO 6104 --- [main] c.t.s.SpringbootLogApplication           : Started SpringbootLogApplication in 3.266 seconds (JVM running for 4.981)
+2019-05-18 10:45:41.930 ERROR 6104 --- [main] c.t.s.SpringbootLogApplication           : yoyoyo
+2019ï¿½05ï¿½18?10:53:21.414?[main]?%PARSER_ERROR[ï]¿½5level?com.terry.springbootlog.SpringbootLogApplication?ï¿½?Starting SpringbootLogApplication on DESKTOP-RJH2P9F with PID 14316 (E:\Users\Paul\IdeaProjects\springboot-log\target\classes started by Paul in E:\Users\Paul\IdeaProjects\springboot-log)
+2019ï¿½05ï¿½18?10:53:21.417?[main]?%PARSER_ERROR[ï]¿½5level?com.terry.springbootlog.SpringbootLogApplication?ï¿½?Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019ï¿½05ï¿½18?10:53:21.418?[main]?%PARSER_ERROR[ï]¿½5level?com.terry.springbootlog.SpringbootLogApplication?ï¿½?No active profile set, falling back to default profiles: default
+2019ï¿½05ï¿½18?10:53:22.982?[main]?%PARSER_ERROR[ï]¿½5level?o.s.boot.web.embedded.tomcat.TomcatWebServer?ï¿½?Tomcat initialized with port(s): 8080 (http)
+2019ï¿½05ï¿½18?10:53:23.010?[main]?%PARSER_ERROR[ï]¿½5level?org.apache.catalina.core.StandardService?ï¿½?Starting service [Tomcat]
+2019ï¿½05ï¿½18?10:53:23.011?[main]?%PARSER_ERROR[ï]¿½5level?org.apache.catalina.core.StandardEngine?ï¿½?Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019ï¿½05ï¿½18?10:53:23.123?[main]?%PARSER_ERROR[ï]¿½5level?o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]?ï¿½?Initializing Spring embedded WebApplicationContext
+2019ï¿½05ï¿½18?10:53:23.123?[main]?%PARSER_ERROR[ï]¿½5level?org.springframework.web.context.ContextLoader?ï¿½?Root WebApplicationContext: initialization completed in 1655 ms
+2019ï¿½05ï¿½18?10:53:23.441?[main]?%PARSER_ERROR[ï]¿½5level?o.s.scheduling.concurrent.ThreadPoolTaskExecutor?ï¿½?Initializing ExecutorService 'applicationTaskExecutor'
+2019ï¿½05ï¿½18?10:53:23.577?[main]?%PARSER_ERROR[ï]¿½5level?o.s.boot.web.embedded.tomcat.TomcatWebServer?ï¿½?Tomcat started on port(s): 8080 (http) with context path ''
+2019ï¿½05ï¿½18?10:53:23.580?[main]?%PARSER_ERROR[ï]¿½5level?com.terry.springbootlog.SpringbootLogApplication?ï¿½?Started SpringbootLogApplication in 2.576 seconds (JVM running for 3.337)
+2019ï¿½05ï¿½18?10:53:23.582?[main]?%PARSER_ERROR[ï]¿½5level?com.terry.springbootlog.SpringbootLogApplication?ï¿½?yoyoyo
